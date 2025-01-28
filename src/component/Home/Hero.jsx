@@ -11,7 +11,7 @@ function Hero() {
           IT NOVA 
         </p>
         <h1 className=" text-[30px]  break-words md:text-[75px] font-[800] tracking-wide  md:max-w-max max-w-[300px] md:leading-[82px] md:tracking-[-3px] mt-[50px] text-black w-[710px]  max-[550px]:text-center ">
-        Revisualizing How India Learns 
+        Revolutionizing How India Learns 
         </h1>
         <div className=" flex md:flex-row flex-col md:gap-0 gap-4 justify-center w-full  items-center mt-[58px] md:w-fit ">
           <Link
