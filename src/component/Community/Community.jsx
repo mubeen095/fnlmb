@@ -10,11 +10,11 @@ function Community() {
         </div>
         <div className="community-count-card-container">
           <div className="community-count-card">
-            <p>AUTHORIZED UNIVERSITY</p>
+            <p>UNIVERSITY</p>
             <h5>10+</h5>
           </div>
           <div className="community-count-card">
-            <p>AUTHORIZED COMPANIES</p>
+            <p>COMPANIES</p>
             <h5>30+</h5>
           </div>
           <div className="community-count-card">
@@ -30,7 +30,7 @@ function Community() {
       <img className="ola-location" src="/image/ola.svg" alt="" />
       <img className="jio-location" src="/image/jio.svg" alt="" />
       <p className="community-para-grey">
-        Globally connected community over 30+ companies.
+        Globally connected community.
       </p>
     </div>
   );

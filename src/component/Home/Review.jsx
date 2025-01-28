@@ -8,7 +8,7 @@ function Review() {
         <div className="feedback-card">
           <p className="feedback-message">
             It Nova Technologies Private Limited excels in innovative software
-            solutions and IT services, delivering high-quality, client-focused
+            and IT services, delivering high-quality, client-focused
             products. Their expert team ensures customer satisfaction, making
             It Nova a reliable partner in the tech industry.
           </p>
@@ -69,7 +69,7 @@ function Review() {
               <img src="/image/review/person2.jpg" alt="" />
             </div>
             <div className="feedback-profile">
-              <h3>Jalla Venkata Sivananda</h3>
+              <h3>Jalla Venkata Sivanandini</h3>
               <p>Sri Venkateshwara College of Engineering and Technology</p>
             </div>
           </div>
@@ -119,7 +119,7 @@ function Review() {
               <img src="/image/review/person7.jpg" alt="" />
             </div>
             <div className="feedback-profile">
-              <h3>Alla Mokshith Naga Sai</h3>
+              <h3>Alla Mokshith Nagaeshwari </h3>
               <p>Vignan University</p>
             </div>
           </div>
@@ -189,7 +189,7 @@ function Review() {
               <img src="/image/review/person2.jpg" alt="" />
             </div>
             <div className="feedback-profile">
-              <h3>Avala Gurumurthy</h3>
+              <h3>Avala Geshmitha </h3>
               <p>Vijayam Science and Arts Degree College </p>
             </div>
           </div>

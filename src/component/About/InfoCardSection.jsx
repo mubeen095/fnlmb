@@ -13,8 +13,7 @@ const InfoCardSection = () => {
           </h5>
 
           <p className="text-lg max-[1278px]:text-[16px] mt-[30px] leading-[19px] text-paraColor -tracking-[0.5px]">
-            It Nova was founded in India, With a vision to be the best and make
-            the best.
+            It Nova was founded in India, With a vision to Revolutionize How India Learns 
           </p>
 
           <div className="absolute left-0 w-[100%] h-[300px] flex justify-center items-center">

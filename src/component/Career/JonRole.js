@@ -17,31 +17,31 @@ const JonRole = () => {
             para1="ROLE1"
             heading1="Inside sales Strategist"
             location="LOCATION"
-            locationName="Bengaluru · Mangaluru"
+            locationName= " Hyderabad "
           />
           <JonRoleCard
             para1="ROLE2"
             heading1="Talent Acquisition"
             location="LOCATION"
-            locationName="Bengaluru · Mangaluru"
+            locationName= " Hyderabad "
           />
           <JonRoleCard
             para1="ROLE3"
             heading1="Corporate Relations"
             location="LOCATION"
-            locationName="Bengaluru · Mangaluru"
+            locationName= " Hyderabad "
           />
           <JonRoleCard
             para1="ROLE4"
             heading1="Operation Specialist"
             location="LOCATION"
-            locationName="Bengaluru · Mangaluru"
+            locationName=" Hyderabad "
           />
           <JonRoleCard
             para1="LET US KNOW"
             heading1="Didn't find your role?"
             location="LOCATION"
-            locationName="Bengaluru · Mangaluru"
+            locationName=" Hyderabad "
           />
         </div>
       </div>

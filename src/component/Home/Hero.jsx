@@ -8,10 +8,10 @@ function Hero() {
     <div className=" bg-transparent flex  justify-between items-center w-full max-[1024px]:flex-col md:pl-[100px]">
       <div className=" z-10  mt-20 md:mt-[142px] md:pl-0 pl-[30px] max-[550px]:mt-[160px] max-[550px]:px-[20px] ">
         <p className=" text-[14px] font-[700] tracking-[4px] text-black max-[550px]:text-xs max-[550px]:tracking-[2px]  max-[550px]:text-center ">
-          BECOME A PART OF SKILL HUB
+          IT NOVA 
         </p>
         <h1 className=" text-[30px]  break-words md:text-[75px] font-[800] tracking-wide  md:max-w-max max-w-[300px] md:leading-[82px] md:tracking-[-3px] mt-[50px] text-black w-[710px]  max-[550px]:text-center ">
-          Join the student network of skill India
+        Revisualizing How India Learns 
         </h1>
         <div className=" flex md:flex-row flex-col md:gap-0 gap-4 justify-center w-full  items-center mt-[58px] md:w-fit ">
           <Link

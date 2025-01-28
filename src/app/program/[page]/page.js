@@ -23,7 +23,7 @@ const Program = ({ params }) => {
   }, [page]);
   const head = (
     <p>
-      Top companies hiring in <br /> It Nova{" "}
+      Industury experts from teach at  <br /> It Nova{" "}
     </p>
   );
   return (

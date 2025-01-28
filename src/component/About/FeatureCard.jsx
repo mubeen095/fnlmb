@@ -8,7 +8,7 @@ const FeatureCard = () => {
           <img src="/image/video_logo.svg" alt="" />
           <p className="text-lg font-[500] mt-[30px]">Online Education</p>
           <p className="text-[16px] mt-[36px] leading-[19px] text-paraColor">
-            We are one of the leading online education platforms. Teaching and
+            We are one of the leading E-Leaarning platforms. Teaching and
             mentoring students to get to their higher potential. We at IT Nova aim
             to provide all round solutions to the problems faced by students.
           </p>

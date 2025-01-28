@@ -17,9 +17,7 @@ const MakingBetter = () => {
             <p className="text-[16px] w-[400px] mr-[210px] max-[550px]:text-sm  max-[1024px]:w-full text-paraColor max-[1439px]:w-[360px]  max-[1024px]:mt-[30px]">
               We're on a mission to spread around and help every possible
               individual who needs us. Our vision is to diversify education
-              standards and make the youth Job Ready. We know there would come
-              challenges but we love them all, they help us improve and grow
-              even more.
+              standards and make the youth Job Ready. #Revolutionize How India Learns
             </p>
           </div>
           <img src="/image/horizontal_divider.svg" className="mt-[56px]" />

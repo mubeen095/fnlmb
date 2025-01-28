@@ -34,6 +34,7 @@ const CourseFeeSection = ({ page }) => {
               <li> ✓ One-to-one doubt resolution sessions</li>
               <li>✓ Attend as many batches as you want for life</li>
               <li>✓ Job Assistance</li>
+              <li>✓ 20+ Program access</li>
             </ul>
 
             <div className="flex justify-between flex-wrap mb-5">

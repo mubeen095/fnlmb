@@ -10,7 +10,7 @@ const HeroAbout = () => {
             ABOUT IT Nova
           </p>
           <h5 className="text-[75px] text-center max-[1439px]:text-[60px] max-[1026px]:w-[400px]  max-[550px]:w-[350px] max-[550px]:text-[35px]   max-[1026px]:text-[45px]  max-[1026px]:leading-[50px]  max-[1439px]:leading-[65px] leading-[82px] w-[1045px]  max-[1439px]:w-[846px] mt-[50px]  font-bold text-black -tracking-[1px]">
-            Where ideas are talked about and growth is focused upon
+          Revolutionizing How India Learns 
           </h5>
         </div>
         
